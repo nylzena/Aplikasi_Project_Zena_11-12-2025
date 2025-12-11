@@ -1,5 +1,5 @@
 import streamlit as st
-st.title(":violet[Projek LPK 2025]")
+st.title(":yellow[Projek LPK 2025]")
 st.header(":blue[Penentuan bilangan dan genap]")
 number = st.number_input("Insert a number",min_value=0, max_value=10000)
 if number%2==1:
