@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("MY PROJECT LPK 2025")
-st.title(":ORANGE[_NTP_] is :blue[cool] :sunglasses:")
+st.title(":purple[MY PROJECT LPK 2025]")
+st.title(":orange[_NTP_] is :blue[cool] :sunglasses:")
